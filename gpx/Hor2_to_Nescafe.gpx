@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd 5.4.11" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net/docs/technical/osmand-file-formats/osmand-gpx" xmlns:gpxtpx="https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 https://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Hor2_to_Nescafe</name>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="12.7282629" lon="77.7096561">
+        <ele>929.1</ele>
+        <time>2026-11-03T08:42:58Z</time>
+        <hdop>3.9</hdop>
+        <extensions>
+          <osmand:speed>0</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7282429" lon="77.7096519">
+        <ele>929.1</ele>
+        <time>2026-11-03T08:43:05Z</time>
+        <hdop>6.5</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7282247" lon="77.7096407">
+        <ele>930.5</ele>
+        <time>2026-11-03T08:43:06Z</time>
+        <hdop>7.8</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7282016" lon="77.709634">
+        <ele>930.5</ele>
+        <time>2026-11-03T08:43:07Z</time>
+        <hdop>8.8</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7281766" lon="77.7096295">
+        <ele>930.5</ele>
+        <time>2026-11-03T08:43:09Z</time>
+        <hdop>9.1</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7281565" lon="77.7096274">
+        <ele>930.5</ele>
+        <time>2026-11-03T08:43:10Z</time>
+        <hdop>8.6</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7281332" lon="77.7096237">
+        <ele>930.5</ele>
+        <time>2026-11-03T08:43:12Z</time>
+        <hdop>7.9</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7281138" lon="77.709624">
+        <ele>930.5</ele>
+        <time>2026-11-03T08:43:13Z</time>
+        <hdop>7.4</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.728099" lon="77.709611">
+        <ele>929.4</ele>
+        <time>2026-11-03T08:43:15Z</time>
+        <hdop>6.9</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7280775" lon="77.7096099">
+        <ele>929.4</ele>
+        <time>2026-11-03T08:43:16Z</time>
+        <hdop>6.5</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7280534" lon="77.7096152">
+        <ele>929.4</ele>
+        <time>2026-11-03T08:43:18Z</time>
+        <hdop>6.3</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7280245" lon="77.7096228">
+        <ele>929.4</ele>
+        <time>2026-11-03T08:43:19Z</time>
+        <hdop>6.3</hdop>
+        <extensions>
+          <osmand:speed>1.2</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7280031" lon="77.7096295">
+        <ele>929.4</ele>
+        <time>2026-11-03T08:43:20Z</time>
+        <hdop>6.4</hdop>
+        <extensions>
+          <osmand:speed>1.2</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7279818" lon="77.7096343">
+        <ele>929.2</ele>
+        <time>2026-11-03T08:43:22Z</time>
+        <hdop>6.5</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7279595" lon="77.7096405">
+        <ele>929.2</ele>
+        <time>2026-11-03T08:43:24Z</time>
+        <hdop>6.2</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7279411" lon="77.7096463">
+        <ele>929.2</ele>
+        <time>2026-11-03T08:43:25Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7279228" lon="77.7096497">
+        <ele>929.2</ele>
+        <time>2026-11-03T08:43:27Z</time>
+        <hdop>5.8</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7279045" lon="77.7096562">
+        <ele>929.2</ele>
+        <time>2026-11-03T08:43:28Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7278857" lon="77.7096601">
+        <ele>929.2</ele>
+        <time>2026-11-03T08:43:30Z</time>
+        <hdop>5.3</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,7 @@
+streamlit
+supabase
+folium
+streamlit-folium
+streamlit-geolocation
+streamlit-cookies-controller
+groq

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd 5.4.11" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net/docs/technical/osmand-file-formats/osmand-gpx" xmlns:gpxtpx="https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 https://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>bbcourt to aromas</name>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="12.7290127" lon="77.7087731">
+        <ele>930.1</ele>
+        <time>2026-11-06T07:53:57Z</time>
+        <hdop>3.8</hdop>
+        <extensions>
+          <osmand:speed>0.2</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7290245" lon="77.7087585">
+        <ele>930.1</ele>
+        <time>2026-11-06T07:54:02Z</time>
+        <hdop>5.1</hdop>
+        <extensions>
+          <osmand:speed>0.9</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7290423" lon="77.70875">
+        <ele>930.1</ele>
+        <time>2026-11-06T07:54:04Z</time>
+        <hdop>6.1</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7290656" lon="77.7087392">
+        <ele>930.1</ele>
+        <time>2026-11-06T07:54:05Z</time>
+        <hdop>7.2</hdop>
+        <extensions>
+          <osmand:speed>1.2</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7290832" lon="77.7087335">
+        <ele>930.1</ele>
+        <time>2026-11-06T07:54:07Z</time>
+        <hdop>8</hdop>
+        <extensions>
+          <osmand:speed>1.2</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7291085" lon="77.7087273">
+        <ele>930.1</ele>
+        <time>2026-11-06T07:54:08Z</time>
+        <hdop>7.5</hdop>
+        <extensions>
+          <osmand:speed>1.2</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7291288" lon="77.708721">
+        <ele>930.1</ele>
+        <time>2026-11-06T07:54:10Z</time>
+        <hdop>6.7</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="12.7291383" lon="77.7087033">
+        <ele>930.1</ele>
+        <time>2026-11-06T07:54:12Z</time>
+        <hdop>6.5</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
